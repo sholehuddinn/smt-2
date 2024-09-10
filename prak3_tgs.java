@@ -1,3 +1,4 @@
+// konstruktor
 class node {
   int data;
   node next;
